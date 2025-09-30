@@ -75,5 +75,5 @@ To deliver an **interactive analytics tool** that:
 ## 6. Screenshots / Demos
 
 ![Dashboard Preview](https://github.com/niveshbansal07/Zomato-dashboard/blob/main/zomato%20dashboad.png)
-[Dashboard Preview](https://github.com/niveshbansal07/Zomato-dashboard/blob/main/zomato%20dashboard_2.png)
+![Dashboard Preview](https://github.com/niveshbansal07/Zomato-dashboard/blob/main/zomato%20dashboard_2.png)
 
